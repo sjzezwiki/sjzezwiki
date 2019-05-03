@@ -7,6 +7,6 @@
 
 ## 支持本项目
 ### 编辑此项目
-本项目文档内容托管于 [GitHub]([https://github.com/sjzezwiki/sjzezwiki](https://github.com/sjzezwiki/sjzezwiki))，您可以fork本项目进行修改后提交commit请求合并至原项目，也可以直接提交issue。考虑到编辑markdown和使用github上手难度较高，您也可以直接将您编辑的内容以电子邮件的形式发送至 i@phemon.me 。同时，与本项目有关的一切问题，您也可以用上面的邮箱联系我。
+本项目文档内容托管于 [GitHub]([https://github.com/sjzezwiki/sjzezwiki](https://github.com/sjzezwiki/sjzezwiki))，您可以fork本项目进行修改后提交pull request请求合并至原项目，也可以直接提交issue。考虑到编辑markdown和使用github上手难度较高，您也可以直接将您编辑的内容以电子邮件的形式发送至 i@phemon.me 。同时，与本项目有关的一切问题，您也可以用上面的邮箱联系我。
 
 石家庄二中Wiki期待您的加入。
